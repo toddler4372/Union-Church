@@ -1,0 +1,716 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"par",
+				"partner-name"
+			],
+			[
+				"doc",
+				"document"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/_USALight2015/css/template.css",
+			"settings":
+			{
+				"buffer_size": 15328,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/_USALight2015/css/homepage.css",
+			"settings":
+			{
+				"buffer_size": 10327,
+				"line_ending": "Windows",
+				"name": "/* CONVERTS ALL IMAGES IN ARTICLE 2 (HOMEPAGE) TO"
+			}
+		},
+		{
+			"file": "/C/_USALight2015/css/compiled.min.css",
+			"settings":
+			{
+				"buffer_size": 38089,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/_USALight2015/css/storefront.css",
+			"settings":
+			{
+				"buffer_size": 54123,
+				"line_ending": "Windows",
+				"name": "/********** STOREFRONT-FORMS *************/"
+			}
+		},
+		{
+			"file": "/C/_USALight2015/css/main_altered.css",
+			"settings":
+			{
+				"buffer_size": 162723,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/_Portfolio/Portfolio Site/css/style.css",
+			"settings":
+			{
+				"buffer_size": 2420,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/_Portfolio/Portfolio Site/css/materialize.css",
+			"settings":
+			{
+				"buffer_size": 178214,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/_USALight2015/templateHTML-BAK-2-13-15.html",
+			"settings":
+			{
+				"buffer_size": 20140,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/_USALight2015/templateHTML.html",
+			"settings":
+			{
+				"buffer_size": 21011,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n\n<head>\n\n  <meta charset=\"UTF-8\">\n\n  <title>Portfolio - Todd Williams</title>\n\n  <link rel=\"stylesheet\" href=\"css/style.css\">\n  <link rel=\"stylesheet\" href=\"css/materialize.css\">\n\n</head>\n\n<body>\n\n  <header class=\"header default-primary-color z-depth-1\">\n        <img src=\"images/photo.png\" alt=\"\" class=\"circle responsive-img\">\n        <h1 class=\"grey-text text-lighten-5\">Todd Williams</h1>\n        <h5 class=\"grey lighten-4 grey-text text-darken-1\">Front End Developer</h5>\n        <nav class=\"default-primary-color z-depth-1\"></nav>\n      </header>\n\n <div class=\"container about\">\n        <h5>about me</h5>\n        <h6>let me introduce myself</h6>\n        <hr>\n        <div class=\"row\">\n          <div class=\"col s12 m4 l4\">\n            <h6>Story</h6>\n            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>\n            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>\n          </div>\n          <div class=\"col s12 m4 l4\">\n            <h6>Profile</h6>\n            <div class=\"card blue-grey darken-1\">\n              <div class=\"card-content white-text\">\n                <img src=\"http://labs.qnimate.com/portfolio-materialize/images/profile.png\" width=\"64\" height=\"64\">\n                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>\n              </div>\n              <div class=\"card-action\">\n                <a href=\"#\">Link</a>\n                <a href='#'>Link</a>\n              </div>\n            </div>\n          </div>\n          <div class=\"col s12 m4 l4\">\n            <h6>current jobs</h6>\n            <ul class=\"collapsible\">\n              <li class=\"active\">\n                <div class=\"collapsible-header\"><i class=\"mdi-av-web\"></i>Designer</div>\n                <div class=\"collapsible-body\"><p>Lorem ipsum dolor sit amet.</p></div>\n              </li>\n              <li>\n                <div class=\"collapsible-header\"><i class=\"mdi-editor-format-align-justify\"></i>Developer</div>\n                <div class=\"collapsible-body\"><p>Lorem ipsum dolor sit amet.</p></div>\n              </li>\n              <li>\n                <div class=\"collapsible-header\"><i class=\"mdi-av-play-shopping-bag\"></i>Video Editor</div>\n                <div class=\"collapsible-body\"><p>Lorem ipsum dolor sit amet.</p></div>\n              </li>\n              <li>\n                <div class=\"collapsible-header\"><i class=\"mdi-editor-insert-comment\"></i>Support Asst.</div>\n                <div class=\"collapsible-body\"><p>Lorem ipsum dolor sit amet.</p></div>\n              </li>\n            </ul>\n          </div>\n        </div>\n      </div>\n\n      <div class=\"container portfolio\">\n        <h5>portfolio</h5>\n        <h6>MY LATEST PROJECTS</h6>\n        <hr>\n        <div class=\"row\">\n          <div class=\"col s12 m12 l12 portfolio-holder\">\n            <img class=\"materialboxed\" src=\"http://labs.qnimate.com/portfolio-materialize/images/project.png\">\n            <img class=\"materialboxed\" src=\"http://labs.qnimate.com/portfolio-materialize/images/project.png\">\n            <img class=\"materialboxed\" src=\"http://labs.qnimate.com/portfolio-materialize/images/project.png\">\n            <img class=\"materialboxed\" src=\"http://labs.qnimate.com/portfolio-materialize/images/project.png\">\n            <img class=\"materialboxed\" src=\"http://labs.qnimate.com/portfolio-materialize/images/project.png\">\n            <img class=\"materialboxed\" src=\"http://labs.qnimate.com/portfolio-materialize/images/project.png\">\n          </div>\n        </div>\n      </div>\n<div class=\"container contact\">\n        <h5>contact</h5>\n        <h6>get in touch with me</h6>\n        <hr>\n        <div class=\"row\">\n          <div class=\"col s12 m6 l6\">\n            <div class=\"row\">\n              <form class=\"col s12\">\n                <div class=\"row\">\n                  <div class=\"input-field col s6\">\n                    <input id=\"first_name\" type=\"text\" class=\"validate\">\n                    <label for=\"first_name\">First Name</label>\n                  </div>\n                  <div class=\"input-field col s6\">\n                    <input id=\"last_name\" type=\"text\" class=\"validate\">\n                    <label for=\"last_name\">Last Name</label>\n                  </div>\n                </div>\n                <div class=\"row\">\n                  <div class=\"input-field col s12\">\n                    <input id=\"email\" type=\"email\" class=\"validate\">\n                    <label for=\"email\">E-Mail</label>\n                  </div>\n                </div>\n                <textarea class=\"materialize-textarea\" placeholder=\"Your Message\" required></textarea>\n                <button class=\"btn waves-effect waves-light\" type=\"submit\" name=\"action\">Submit\n                  <i class=\"mdi-content-send right\"></i>\n                </button>\n              </form>\n            </div>\n          </div>\n          <div class=\"col s12 m6 l6 contact-holder\">\n            <h6 class=\"mdi-action-home\">Address</h6>\n            <p>Nr. 6, 21 Awesome Street, London, UK</p>\n            <h6 class=\"mdi-hardware-phone-android\">Phone Number</h6>\n            <p>+91 9912776151</p>\n            <h6 class=\"mdi-action-open-in-browser\">Website</h6>\n            <p>qnimate.com</p>\n          </div>\n        </div>\n      </div>\n        <footer>\n          <div class=\"footer-copyright\">\n            <div class=\"container\">\n            © 2014 Copyright Text\n            <a class=\"grey-text text-lighten-4 right\" href=\"#!\">Link</a>\n            </div>\n          </div>\n        </footer>\n\n  <script src='http://codepen.io/assets/libs/fullpage/jquery.js'></script>\n  <script src='https://cdn.rawgit.com/Dogfalo/materialize/master/dist/js/materialize.min.js'></script>\n\n  <script src=\"js/index.js\"></script>\n\n</body>\n\n</html>",
+			"file": "/C/_Portfolio/Portfolio Site/index.html",
+			"file_size": 6022,
+			"file_write_time": 130704173576556490,
+			"settings":
+			{
+				"buffer_size": 6021,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/TEMP/palette (1).css",
+		"/C/_Portfolio/Portfolio Site/css/materialize",
+		"/C/_USALight2015/templateHTML.html",
+		"/C/_USALight2015/css/main.css",
+		"/C/_USALight2015/css/navigation.css",
+		"/C/_USALight2015/css/softaddtocart.css",
+		"/C/_USALight2015/css/compiled.min.css",
+		"/C/_USALight2015/css/cart-test.css",
+		"/C/_USALight2015/templateHTML-BAK-2-13-15.html",
+		"/C/_USALight2015/faq.html",
+		"/C/_USALight2015/Homepage.html",
+		"/C/_USALight2015/customer-service.html",
+		"/C/_USALight2015/src/checkout.html",
+		"/C/_USALight2015/src/cart.html",
+		"/C/_USALight2015/index.html",
+		"/C/_USALight2015/css/cart.css",
+		"/C/_USALight2015/css/onepagecheckout.css",
+		"/C/_USALight2015/css/one-page-checkout.css",
+		"/C/_USALight2015/css/shoppingcart.css",
+		"/C/_USALight2015/css/productdetails.css",
+		"/C/_USALight2015/css/test.css",
+		"/C/_USALight2015/src/templateHTML.html",
+		"/C/_Portfolio/USALight-NEW/templateHTML-BAK-2-13-15.html",
+		"/C/_USALight2015/landing-Ballasts-Fluorescent-T8.html",
+		"/C/_USALight2015/landing-LED-Bulbs",
+		"/C/_USALight2015/css/component.css",
+		"/C/_USALight2015/css/category.css",
+		"/C/_USALight2015/css/colors.css",
+		"/C/_USALight2015/css/homepage-clone.css",
+		"/C/_USALight2015/css/imports.css",
+		"/C/_USAlight_v2/shipping-returns.html",
+		"/C/_Portfolio/USALight-NEW/index.html",
+		"/C/_Portfolio/USALight-NEW/css/home.css",
+		"/C/_Portfolio/USALight-NEW/css/main.css",
+		"/C/_Portfolio/USALight-NEW/main.css",
+		"/C/_Portfolio/JQuery Slider/index.html",
+		"/C/_Portfolio/JQuery Slider/js/main.js",
+		"/C/_Portfolio/AngularJS_Test/index.html",
+		"/C/_Portfolio/Union Church/css/bootstrap.css",
+		"/C/_Portfolio/Union Church/css/grayscale.css",
+		"/C/_Portfolio/Union Church/index.html",
+		"/C/_Portfolio/Union Church/js/grayscale.js",
+		"/C/_Portfolio/Union Church/css/logo-nav.css",
+		"/C/_Portfolio/Bootstrap Site 3/css/bootstrap.css",
+		"/C/_Portfolio/Bootstrap Site 3/css/main.css",
+		"/C/_Portfolio/Bootstrap Site 3/index.html",
+		"/C/_Portfolio/Bootstrap Site 3/read.html",
+		"/C/_Portfolio/JQuery Slider/css/main.css",
+		"/C/_Portfolio/JQuery Panel/index.html",
+		"/C/_Portfolio/Bootstrap Site/css/bootstrap.css",
+		"/C/_Portfolio/Bootstrap Site/index.html",
+		"/C/_Portfolio/GitTest/index.html",
+		"/C/_Portfolio/Ajax Test/index.html",
+		"/C/_Portfolio/Ajax Test/js/main.js",
+		"/C/_Portfolio/Ajax Test/js/mustache.js",
+		"/C/_Portfolio/JQuery Panel/css/main.css",
+		"/C/_Portfolio/JQuery Tutorial/css/bootstrap.css",
+		"/C/_Portfolio/JQuery Tutorial/index.html",
+		"/C/_Portfolio/Bootstrap Site 3/css/grayscale.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nav",
+			".",
+			"elist",
+			"clearfix",
+			"link-col-1",
+			"collapse",
+			"panel-collapse",
+			"panel-collapse collapse",
+			"panel-collapse",
+			"panel-collapse collapse",
+			"accordion-toggle",
+			"panel-title",
+			"panel-heading",
+			"panel",
+			"panel-default",
+			"panel panel-default",
+			"footer-collapse",
+			"panel-group",
+			"clearfix visible-xs",
+			"footer",
+			".footer",
+			"panel-group",
+			"footer",
+			"jquery",
+			"footer",
+			"credit",
+			"language=",
+			"div_articleid_2",
+			"<td valign=\"top\">",
+			"width=\"100%\"",
+			"display_menu_1",
+			"display_menu_13",
+			"display_menu_1",
+			"language=",
+			"div_artic",
+			"seal.js",
+			"s tyle",
+			"id=\"search",
+			"storedot",
+			"253",
+			"div#div_articleid_112 a img",
+			"color",
+			" !important",
+			"moz-docum",
+			"subcat-wrapper",
+			"OVERRIDE",
+			"subcat-wrapper",
+			"id",
+			"subcat-wrapper",
+			"v1.1",
+			"customer-service",
+			"override",
+			"styleshe",
+			"a/a",
+			"a/c",
+			"a\\c",
+			"js/",
+			"css/",
+			"/v/vspfiles/templates/USALight2015/",
+			"js/",
+			"css/",
+			"/v/vspfiles/templates/USALight2015/",
+			"v/vspfiles/templates/USALight2015/",
+			"main#content_area.container table tbody tr td table",
+			".subcat-wrapper nav.nav-block-3 ul a li",
+			"chrome",
+			"v65-onepage-editcart",
+			"1.",
+			"br",
+			"1.",
+			"<br/>",
+			"in some cases",
+			"r and American Express",
+			"h2",
+			"<br/>",
+			"style=\"text-align: center;\"",
+			"support_right2",
+			"id=\"support_container\"",
+			"id=\"support_subnav\"",
+			" class=\"support_right2\"",
+			" class=\"support_left\"",
+			"id^",
+			"http://currys.cdn.dixons.com/",
+			"http://currys.cdn.dixons.com/css/themes/entertaining_universe/img/block1b.jpg);",
+			"colors_descriptionbox",
+			"margin-top: -20px;",
+			"margin-top: -20px;\nmargin-top: -20px;",
+			"margin-top: -20px;\nmargin-bottom: 20px;",
+			"65px",
+			"65",
+			"edit",
+			"eidt",
+			"edit",
+			"EDIT",
+			"de3945",
+			"da4545",
+			"011e62",
+			"1e249e",
+			"productdetail",
+			"v65-productdetail-options",
+			"volusion",
+			"s",
+			"volusion",
+			"#content_area > table:nth-child(4)",
+			"1113",
+			"elist",
+			"if_homepage",
+			"feffd0",
+			"hide-homepage",
+			"Source Sans Pro",
+			"\"Source Sans Pro\"",
+			"roboto",
+			"font-family",
+			"Playfair Display",
+			"e74f5d",
+			"'Source Sans Pro'",
+			"Raavi",
+			"1e249e",
+			"icon",
+			"box-sizing",
+			"Raavi",
+			"toolbar li a",
+			"assessed",
+			"ol",
+			"source",
+			";}\n",
+			"2015",
+			"v1.1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/_USALight2015/css/template.css",
+					"settings":
+					{
+						"buffer_size": 15328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7713,
+								7713
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4921.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/_USALight2015/css/homepage.css",
+					"settings":
+					{
+						"buffer_size": 10327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10221,
+								10221
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/* CONVERTS ALL IMAGES IN ARTICLE 2 (HOMEPAGE) TO",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3792.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/_USALight2015/css/compiled.min.css",
+					"settings":
+					{
+						"buffer_size": 38089,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7847,
+								7847
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 33565.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/_USALight2015/css/storefront.css",
+					"settings":
+					{
+						"buffer_size": 54123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37574,
+								37577
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/********** STOREFRONT-FORMS *************/",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 17691.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/_USALight2015/css/main_altered.css",
+					"settings":
+					{
+						"buffer_size": 162723,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150905,
+								150905
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 81951.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/_Portfolio/Portfolio Site/css/style.css",
+					"settings":
+					{
+						"buffer_size": 2420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1961,
+								1961
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1884.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/_Portfolio/Portfolio Site/css/materialize.css",
+					"settings":
+					{
+						"buffer_size": 178214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104818,
+								104818
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 75636.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "/C/_USALight2015/templateHTML-BAK-2-13-15.html",
+					"settings":
+					{
+						"buffer_size": 20140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4838,
+								4838
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 958.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/_USALight2015/templateHTML.html",
+					"settings":
+					{
+						"buffer_size": 21011,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								334,
+								334
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/_Portfolio/Portfolio Site/index.html",
+					"settings":
+					{
+						"buffer_size": 6021,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1229,
+								1229
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.418454935622,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true
+}
