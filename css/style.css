@@ -320,7 +320,7 @@ a:focus {
 
 @media(max-width:766px) {
     .content-section {
-        padding-top: 250px;
+        padding-top: 200px;
     }
 
     .download-section {
@@ -351,7 +351,7 @@ a:focus {
     }
 
     #contact {
-    padding-bottom: 400px;
+    padding-bottom: 200px;
     }
 
     .btn {
@@ -380,12 +380,6 @@ a:focus {
     ul.banner-social-buttons {
         margin-top: 0;
         padding-bottom: 30px;
-    }
-}
-
-@media(max-width:1199px) {
-    ul.banner-social-buttons {
-        margin-top: 15px;
     }
 }
 
@@ -531,6 +525,90 @@ p.verse {
 
 #supplies {
     padding-top: 100px;
+}
+
+/*  MEDIA QUERIES  */
+@media (min-width: 992px) and (max-width: 1199px) {
+    #purpose {
+        height: 900px;
+    }
+    #support {
+      height: 1900px;
+    }
+    #contact {
+      padding-bottom: 100px;
+    }
+    ul.banner-social-buttons {
+        margin-top: 15px;
+        width: 640px;
+    }
+}
+@media (min-width: 767px) and (max-width: 991px) {
+    #priorities {
+      height: 680px;
+    }
+    #practices {
+      height: 700px;
+    }
+    #support {
+      height: 1700px;
+    }
+    #contact {
+      padding-bottom: 0px; 
+    }
+}
+@media (max-width: 767px) {
+    .navbar-header img {
+      padding-left: 20px;
+    }
+    #support {
+      height: 1650px;
+    }
+    #practices {
+      height: 650px;
+    }
+    #priorities {
+      height: 650px;
+    }
+    #join {
+      height: 500px;
+    }
+    #share {
+      height: 800px;
+    }
+    .list-inline {
+      margin-bottom: 50px;
+    }
+}
+.navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
+  max-height: 380px !important;
+}
+.container>.navbar-header {
+  height: 70px;
+}
+button.navbar-toggle {
+  font-size: 2em;
+}
+.navbar-toggle {
+  margin-top: 6px;
+  margin-bottom: 0px;
+} 
+
+@media only screen and (max-width: 1024px) {
+    .featherlight .featherlight-content {
+      max-width: 90% !important;
+    }
+    .featherlight .featherlight-inner {
+      width: 95% !important;
+    }
+}
+
+.lightbox ul {
+  float: left;
+  list-style-type: none;
+  margin-left: 10px;
+  line-height: 2em;
+  font-size: 1.2em;
 }
 
 
