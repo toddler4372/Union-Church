@@ -304,7 +304,7 @@ a:focus {
     height: 600px;
     padding: 100px 0;
     color: #fff;
-    background: url(../images/prayer.jpg) no-repeat center center scroll;
+    background: url(../images/prayer.png) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -312,35 +312,8 @@ a:focus {
     -o-background-size: cover;
 }
 
-#map {
-    width: 100%;
-    height: 200px;
-    margin-top: 100px;
-}
 
-@media(max-width:766px) {
-    .content-section {
-        padding-top: 200px;
-    }
-
-    .download-section {
-        padding: 100px 0;
-        height: 380px
-    }
-
-    #map {
-        height: 400px;
-        margin-top: 250px;
-    }
-
-    #contact {
-        padding-top:0px;
-        padding-bottom:0px;
-    }
-
-}
-
-@media(min-width:767px) {
+@media(min-width:768px) {
     .content-section {
         padding-top: 110px;
     }
@@ -435,7 +408,7 @@ p {
     font-family: Roboto,Helvetica,Arial,sans-serif;
 }
 
-@media(max-width:766px)  {
+@media(max-width:767px)  {
     .btn,
     .btn-lg, 
     .btn-group-lg>.btn {
@@ -460,16 +433,15 @@ p {
         color: white;
         background-color: #219ab3;
     }
+    .content-section {
+        padding-top: 110px;
+    }
 }
 
 /*  HOMEPAGE SECTIONS  */
 
-#purpose {
-    height: 800px;
-}
-
 #priorities {
-    height: 800px;
+    height: 900px;
 }
 
 #priorities ul {list-style: none;}
@@ -539,22 +511,25 @@ p.verse {
       padding-bottom: 100px;
     }
     ul.banner-social-buttons {
-        margin-top: 15px;
-        width: 640px;
+      margin-top: 15px;
+      width: 640px;
     }
 }
 @media (min-width: 767px) and (max-width: 991px) {
     #priorities {
-      height: 680px;
+      height: 750px;
     }
     #practices {
-      height: 700px;
+      height: 800px;
     }
     #support {
-      height: 1700px;
+      height: 1900px;
     }
     #contact {
       padding-bottom: 0px; 
+    }
+    #purpose {
+      height: 950px;
     }
 }
 @media (max-width: 767px) {
@@ -562,22 +537,25 @@ p.verse {
       padding-left: 20px;
     }
     #support {
-      height: 1650px;
+      height: 1900px;
     }
     #practices {
-      height: 650px;
+      height: 800px;
     }
     #priorities {
-      height: 650px;
+      height: 750px;
     }
     #join {
       height: 500px;
     }
     #share {
-      height: 800px;
+      height: 900px;
     }
     .list-inline {
       margin-bottom: 50px;
+    }
+    #purpose {
+      height: 950px;
     }
 }
 .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
@@ -611,5 +589,17 @@ button.navbar-toggle {
   font-size: 1.2em;
 }
 
+.featherlight .featherlight-close-icon {
+  background: #918577 !important;
+  color: #000;
+}
+.featherlight .featherlight-content {
+  background: #918577 !important;
+}
+
+img#uc-logo {
+  max-width: 152px;
+  max-height: 49px;
+}
 
 
